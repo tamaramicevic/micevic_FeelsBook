@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">micevic-FeelsBook</string>
+    <string name="feeling_love">Love</string>
+    <string name="feeling_joy">Joy</string>
+    <string name="feeling_surprise">Surprise</string>
+    <string name="feeling_anger">Anger</string>
+    <string name="feeling_sadness">Sadness</string>
+    <string name="feeling_fear">Fear</string>
+    <string name="title">FeelsBook</string>
+    <string name="feeling_current">Current Feeling:</string>
+    <string name="save_feeling_success">You have successfully recorded your feeling! Feel free to elaborate by submitting a comment, otherwise return to the main menu.</string>
+    <string name="no_feeling">No current feeling recorded</string>
+    <string name="return_to_main">Return</string>
+    <string name="submit_button">Submit</string>
+    <string name="history">History</string>
+    <string name="stats">Statistics</string>
+    <string-array name="menu_items">
+        <item>History</item>
+        <item>Statistics</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="namesFeeling">
+        <item>Love</item>
+        <item>Joy</item>
+        <item>Surprise</item>
+        <item>Anger</item>
+        <item>Sadness</item>
+        <item>Fear</item>
+    </string-array>
+    <string name="button_menu">. . .</string>
+    <string name="hist_list">History List</string>
+    <string name="edit_feeling">Edit Feeling Information:</string>
+    <string name="feeling">Feeling:</string>
+    <string name="date">Date:</string>
+    <string name="comment_optional">Optional Comment:</string>
+    <string name="button_delete">Delete</string>
+</resources>
